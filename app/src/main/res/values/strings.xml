@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+    <string name="title_activity_transfer_to_cards">TransferToCards</string>
+</resources>
